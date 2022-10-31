@@ -1,6 +1,8 @@
-# terraform_aws_singlestore
+# Terraform AWS SingleStore
 
 Create a single node SingleStore database cluster on AWS using Terraform
+
+![singlestore ui](https://github.com/gordonmurray/terraform_aws_singlestore/blob/main/images/singlestore.png?raw=true)
 
 ### Requirements
 
