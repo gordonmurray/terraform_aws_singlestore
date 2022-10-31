@@ -1,0 +1,8 @@
+{
+    "base_ami_id": "ami-096800910c1b781ba",
+    "region": "eu-west-1",
+    "instance_type": "t3.xlarge",
+    "vpc_id": "vpc-xxxxx",
+    "subnet_id": "subnet-xxxxx",
+    "profile": "default"
+}

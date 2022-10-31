@@ -1,0 +1,6 @@
+my_ip_address       = ""
+aws_region          = "eu-west-1"
+aws_account_id      = ""
+subnet_id           = "subnet-xxxxx"
+vpc_id              = "vpc-xxxxx"
+singlestore_license = ""
